@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T14:45:06.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="oK2L9mYNKvyXbTnowA-K" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T14:50:29.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="TF9AHMtCySTHa3NZyuCX" version="14.2.3" type="github">
   <diagram id="vbld8GTjUYGatiaoBAkq" name="Page-1">
     <mxGraphModel dx="1102" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,10 @@
           <mxGeometry x="324" y="140" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBfhOqPm9bhFyVWeJLGO-20" value="新增兩組" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="324" y="190" width="90" height="40" as="geometry" />
+          <mxGeometry x="324" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-21" value="發散的問題&lt;br&gt;程式會記錄&lt;br&gt;解決方法&lt;br&gt;下次使用" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="324" y="190" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
