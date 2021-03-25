@@ -1,70 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T14:50:29.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="TF9AHMtCySTHa3NZyuCX" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T14:12:29.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="I7EKLz9KskyaMoIu9U-h" version="14.5.1" type="github" pages="2">
   <diagram id="vbld8GTjUYGatiaoBAkq" name="Page-1">
-    <mxGraphModel dx="1102" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-1" value="問好主管同仁" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-1" value="問好主管同仁" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-2" value="Team&lt;br&gt;自介" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-2" value="Team&lt;br&gt;自介" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="90" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-3" value="標題&lt;br&gt;進度" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-3" value="標題&lt;br&gt;進度" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="140" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-4" value="netlist 定義&lt;br&gt;繪圖軟體&lt;br&gt;連接關係" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-4" value="netlist 定義&lt;br&gt;繪圖軟體&lt;br&gt;連接關係" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="40" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-5" value="CAD netlist&lt;br&gt;sample 如下" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-5" value="CAD netlist&lt;br&gt;sample 如下" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="90" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-6" value="Pad 1打到FIG2&lt;br&gt;PAD 2打PAD3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-6" value="Pad 1打到FIG2&lt;br&gt;PAD 2打PAD3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="140" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-7" value="Auto Create netlist 是將客戶netlist 轉成軟體可用格式" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-7" value="Auto Create netlist 是將客戶netlist 轉成軟體可用格式" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="190" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-8" value="節省3.5小時" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-8" value="節省3.5小時" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="260" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-9" value="根據PKG TYPE" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-9" value="根據PKG TYPE" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="310" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-10" value="根據使用軟體" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-10" value="根據使用軟體" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="360" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-11" value="根據80/20原則先開發最花時間MEA再通用" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-11" value="根據80/20原則先開發最花時間MEA再通用" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="410" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-12" value="通用程式需要應付各種客戶格式" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-12" value="通用程式需要應付各種客戶格式" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="460" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-13" value="1/8測試完成&lt;br&gt;1/11 release" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-13" value="1/8測試完成&lt;br&gt;1/11 release" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="510" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-14" value="測試後希望多加2功能" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-14" value="測試後希望多加2功能" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="560" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-15" value="FIG 為net name&lt;br&gt;希望也能轉換" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-15" value="FIG 為net name&lt;br&gt;希望也能轉換" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="611" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-16" value="自動選欄位" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-16" value="自動選欄位" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="660" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-17" value="不同客戶&lt;br&gt;提供資料不同" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-17" value="不同客戶&lt;br&gt;提供資料不同" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="323.5" y="40" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-18" value="就客戶少給欄位&lt;br&gt;有12種獨立的issue 已解決" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-18" value="就客戶少給欄位&lt;br&gt;有12種獨立的issue 已解決" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="323.5" y="90" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-19" value="敘述不統一&lt;br&gt;有ˊ65種獨立的issue 已解決" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-19" value="敘述不統一&lt;br&gt;有ˊ65種獨立的issue 已解決" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="324" y="140" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-20" value="新增兩組" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-20" value="新增兩組" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="324" y="260" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBfhOqPm9bhFyVWeJLGO-21" value="發散的問題&lt;br&gt;程式會記錄&lt;br&gt;解決方法&lt;br&gt;下次使用" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nBfhOqPm9bhFyVWeJLGO-21" value="發散的問題&lt;br&gt;程式會記錄&lt;br&gt;解決方法&lt;br&gt;下次使用" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="324" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="feT587kOz41_hO4VFTal">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DptLgrftkge-p1oRKm96-0" />
+        <mxCell id="DptLgrftkge-p1oRKm96-1" parent="DptLgrftkge-p1oRKm96-0" />
+        <mxCell id="DptLgrftkge-p1oRKm96-2" value="問好主管同仁" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="40" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-3" value="Team&lt;br&gt;自介" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="40" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-4" value="標題&lt;br&gt;進度" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="40" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-5" value="netlist 定義&lt;br&gt;繪圖軟體&lt;br&gt;連接關係" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-6" value="CAD netlist&lt;br&gt;sample 如下" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-7" value="Pad 1打到FIG2&lt;br&gt;PAD 2打PAD3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-8" value="Auto Create netlist 是將客戶netlist 轉成軟體可用格式" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-9" value="節省3.5小時" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-10" value="根據PKG TYPE" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-11" value="根據使用軟體" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-12" value="根據80/20原則先開發最花時間MEA再通用" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="410" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-13" value="通用程式需要應付各種客戶格式" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-14" value="1/8測試完成&lt;br&gt;1/11 release" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="510" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-15" value="測試後希望多加2功能" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-16" value="FIG 為net name&lt;br&gt;希望也能轉換" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="611" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-17" value="自動選欄位" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="660" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-18" value="不同客戶&lt;br&gt;提供資料不同" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="323.5" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-19" value="就客戶少給欄位&lt;br&gt;有12種獨立的issue 已解決" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="323.5" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-20" value="敘述不統一&lt;br&gt;有ˊ65種獨立的issue 已解決" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="324" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-21" value="新增兩組" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="324" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DptLgrftkge-p1oRKm96-22" value="發散的問題&lt;br&gt;程式會記錄&lt;br&gt;解決方法&lt;br&gt;下次使用" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
           <mxGeometry x="324" y="190" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
