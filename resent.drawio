@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T14:23:15.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="5LbnwSqrI8yE4mvXpF-l" version="14.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-25T14:57:01.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="a6xt3k6CJUEuyoYGhC30" version="14.5.1" type="github" pages="2">
   <diagram id="vbld8GTjUYGatiaoBAkq" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,14 +84,20 @@
         <mxCell id="DptLgrftkge-p1oRKm96-4" value="auto create Ra review report" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
           <mxGeometry x="40" y="140" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DptLgrftkge-p1oRKm96-5" value="RA 產生流程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
-          <mxGeometry x="180" y="40" width="130" height="40" as="geometry" />
+        <mxCell id="DptLgrftkge-p1oRKm96-5" value="RA 產生流程&lt;br&gt;CUS-&amp;gt;RD-&amp;gt;PE-&amp;gt;done" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="40" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DptLgrftkge-p1oRKm96-6" value="SUB下4 team&lt;br&gt;各派一人&lt;br&gt;蒐集每周每月每季 PE review data" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
-          <mxGeometry x="180" y="90" width="130" height="60" as="geometry" />
+        <mxCell id="DptLgrftkge-p1oRKm96-6" value="SUB下4 team&lt;br&gt;各派一人蒐集&lt;br&gt;各team每周每月每季 &lt;br&gt;PE review data&lt;br&gt;review 製成 &amp;amp; 設計能力" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="90" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6H_hlLNhm685FBP6-oBt-0" value="RA 資料&lt;br&gt;原紀錄在NOTE&lt;br&gt;年初改在K2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
-          <mxGeometry x="180" y="160" width="130" height="60" as="geometry" />
+        <mxCell id="6H_hlLNhm685FBP6-oBt-0" value="RA 資料&lt;br&gt;原紀錄在NOTE&lt;br&gt;年初改在K2&lt;br&gt;W12 建置完成&lt;br&gt;K2輸出格式與NOTE不同&lt;br&gt;原程式需要進行改版" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="190" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6H_hlLNhm685FBP6-oBt-1" value="RA 手動流程 4 hrs&lt;br&gt;K2-&amp;gt;21 col-&amp;gt;整理-&amp;gt;報告" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="290" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6H_hlLNhm685FBP6-oBt-2" value="預計在W22完成" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DptLgrftkge-p1oRKm96-1">
+          <mxGeometry x="180" y="340" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
