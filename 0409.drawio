@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T14:30:46.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="xVk5s8NBXm0JEqX-RBuL" version="14.5.8" type="github"><diagram id="pPRPS4XdInJoalC7eAKX" name="Page-1">jZNNb6MwEIZ/zRwr8ZESfATiNj30lEp7dsMsWALMOk4g/fU7xgaCupVWstD4mXdmjGcMcdGOr1r09bsqsYEoKEeIDxBFz1FCXwvuDuxY4EClZelQuIKT/EIPZ9lVlnjZCI1SjZH9Fp5V1+HZbJjQWg1b2W/VbKv2osJv4HQWzXf6S5amdjSN9is/oqzquXKYMOdpxSz2f3KpRamGBxRziAutlHFWOxbY2Lub78XFvfzgXQ6msTP/E/BW9x9P+ijG4fDnQx3fWVC8PvksN9Fc/Q9frp8EgO8gTyHNJ/sZWG4XGWngoEHRQpQ0VDr/1GRV1rKKjAPLgCfACmAvluQUs6cuyqpDDZzS0tr3SGk03iQOUwVSJ8AZsANkEfC9zZLurJGTN5gyciuzGQ/A2ETInjRpBHk2lQ8gD6eEIaTZP47ommHuc4e1unYl2ksKyD3U0uCpF2frHWikidWmbWgXLtE31AbHH/sQLt2lV4GqRaPvJJkDUj8Q/kWE84AM63wtrH6YrcQz4Ue6WlKvXSfDN37ergM2+R5eacz/Ag==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-08T15:35:33.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="XxX5y8lg2CCpmUmyo0tj" version="14.5.8" type="github">
+  <diagram id="pPRPS4XdInJoalC7eAKX" name="Page-1">
+    <mxGraphModel dx="526" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IhpT-rHaxwDqToHM90CG-1" value="sub 下 四個 team&lt;br&gt;定期將designer與pe review圖面的結果手動彙整為報告&lt;br&gt;此專案為將手動過程自動化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="140" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u1KyyM-jcr3i3bjUg-Uj-1" value="update自動化進度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u1KyyM-jcr3i3bjUg-Uj-2" value="有三大手動步驟&lt;br&gt;1.data clean--&amp;gt;只取所需資料--&amp;gt;自動化完成&lt;br&gt;2.整理資料--&amp;gt;7步驟 完成三項&lt;br&gt;3.產生報告--&amp;gt;自動繪製報告所需圖表--&amp;gt;未完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u1KyyM-jcr3i3bjUg-Uj-3" value="整理資料完成部分&lt;br&gt;1.同一圖面可能review多次但報告只&lt;br&gt;呈現最新的資料&lt;br&gt;2.根據RA NO或是pkg group 分組別&lt;br&gt;3.綜合所有PE review結果找出風險最高item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="u1KyyM-jcr3i3bjUg-Uj-4" value="c後續有完成部分再陸續update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
