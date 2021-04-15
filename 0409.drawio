@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T09:34:00.831Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="jNZ9D0VkOsmbg_h2Bvbv" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-15T09:47:24.864Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="GnePK3m-fo_bslhLdUXq" version="14.4.7" type="github">
   <diagram id="pPRPS4XdInJoalC7eAKX" name="Page-1">
     <mxGraphModel dx="1182" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="u1KyyM-jcr3i3bjUg-Uj-2" value="有三大手動步驟&lt;br&gt;1.只取所需資料&lt;br&gt;2.整理資料--&amp;gt;7步驟 完成三項 4,5 進行中&lt;br&gt;3.產生報告" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="290" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="u1KyyM-jcr3i3bjUg-Uj-3" value="整理資料完成部分&lt;br&gt;1.1.原K2只輸出填表時間，但是report以RA完成時間做時間區隔&lt;br&gt;1.2 從K2 另外報表 原目的review 簽核 CT &lt;br&gt;可找出完成時間&lt;br&gt;2.最花時間的步驟&lt;br&gt;2.1從各廠PE review 結果找出最top risk&lt;br&gt;2.2將risk level 依既定risk item做整理&lt;br&gt;2.3 excel 高手 樞紐 Hlookup vlookup&lt;br&gt;2.4 手動" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="u1KyyM-jcr3i3bjUg-Uj-3" value="整理資料完成部分&lt;br&gt;1.1.原K2只輸出填表時間，但是report以RA完成時間做時間區隔&lt;br&gt;1.2 從K2 另外報表 原目的review 簽核 CT &lt;br&gt;可找出完成時間&lt;br&gt;2.最花時間的步驟&lt;br&gt;2.1從各廠PE review 結果找出最top risk&lt;br&gt;2.2 excel 高手 樞紐 Hlookup vlookup&lt;br&gt;2.3將risk level 依既定risk item做整理&lt;br&gt;2.4 手動" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="381" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="u1KyyM-jcr3i3bjUg-Uj-4" value="c後續有完成部分再陸續update" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
