@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T09:47:24.864Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="GnePK3m-fo_bslhLdUXq" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T15:45:55.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="uLHYbDXX_7i7_KS9IH4G" version="14.6.10" type="github">
   <diagram id="pPRPS4XdInJoalC7eAKX" name="Page-1">
-    <mxGraphModel dx="1182" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,24 @@
         </mxCell>
         <mxCell id="u1KyyM-jcr3i3bjUg-Uj-4" value="c後續有完成部分再陸續update" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPWaIltQ_Cum5mJ5Jvex-2" value="老闆好我是SKILL team 的adrian&lt;br&gt;update auto create ra review report 進度&lt;br&gt;整理資料 最後兩部分 本週完成&lt;br&gt;第六部分 也是最花時間的部分&lt;br&gt;為了對risk item over all 的review&lt;br&gt;leader 設計一張表單&lt;br&gt;橫軸放的是固定順序的risk item&lt;br&gt;risk item 數目有430個&lt;br&gt;隨著設計的多樣化 risk item 還會增加&lt;br&gt;縱軸放的是RA單號&lt;br&gt;依完成時間排序&lt;br&gt;假設K2 data 單號2 有risk item D risk level 5&lt;br&gt;要在總表上面縱軸找到單號2&lt;br&gt;橫軸找到risk item D&lt;br&gt;再將risk level 填入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BPWaIltQ_Cum5mJ5Jvex-3" value="&lt;span&gt;老闆好我是SKILL team 的adrian&lt;/span&gt;&lt;br&gt;&lt;span&gt;update auto create ra review report 進度&lt;/span&gt;&lt;br&gt;&lt;span&gt;整理資料 最後兩部分 本週完成&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="381" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BPWaIltQ_Cum5mJ5Jvex-4" value="&lt;span&gt;為了對risk item over all 的review&lt;/span&gt;&lt;br&gt;&lt;span&gt;leader 設計一張表單&lt;/span&gt;&lt;br&gt;&lt;span&gt;橫軸放的是固定順序的risk item&lt;/span&gt;&lt;br&gt;&lt;span&gt;risk item 數目有430個&lt;/span&gt;&lt;br&gt;&lt;span&gt;隨著設計的多樣化 risk item 還會增加&lt;/span&gt;&lt;br&gt;&lt;span&gt;縱軸放的是RA單號&lt;/span&gt;&lt;br&gt;&lt;span&gt;依完成時間排序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="450" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BPWaIltQ_Cum5mJ5Jvex-5" value="&lt;span&gt;假設K2 data 單號2 有risk item D risk level 5&lt;/span&gt;&lt;br&gt;&lt;span&gt;要在總表上面縱軸找到單號2&lt;/span&gt;&lt;br&gt;&lt;span&gt;橫軸找到risk item D&lt;/span&gt;&lt;br&gt;&lt;span&gt;再將risk level 填入&lt;br&gt;W18 WB 重複 990&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="555" width="240" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="BPWaIltQ_Cum5mJ5Jvex-6" value="統計 不同客戶 不同時間週期 risk 1~5數目&lt;br&gt;手動整理難度不高 但統計項目多&lt;br&gt;一併自動化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="640" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BPWaIltQ_Cum5mJ5Jvex-7" value="接下來就是將數據可視化&lt;br&gt;自動將數據畫成圖表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="710" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
